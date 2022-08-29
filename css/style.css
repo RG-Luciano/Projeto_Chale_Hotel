@@ -173,3 +173,7 @@ ul#navegacao a:hover{
     background: #f6f3d6;
     cursor: pointer;
 }
+.redes{
+    text-align: center;
+    width: 0 auto;
+}
